@@ -13,9 +13,9 @@ The `Resume` directory houses my resume and analysis files:
 
 ## Question Bank
 
-The `Question‑Bank` directory will contain question banks for different companies based on my interview experiences. Each file summarises questions asked, rounds, system design topics, and personal insights.
+The `Question‑Bank` directory will contain question banks for different companies based on my interview experiences. Each file summarises questions asked, rounds, system design topics, and personal [...]
 
-- **Hiver.md** – SDE‑2 Backend interview at Hiver.
+- [Question-Bank](https://github.com/sharmaumang001/Interview-Prep/tree/main/Question-Bank) – SDE‑2 Backend interview at Hiver.
 
 ## Goal
 

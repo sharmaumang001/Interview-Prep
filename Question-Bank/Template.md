@@ -4,6 +4,7 @@
 - **Position**: 
 - **Date**: 
 - **Interview Format**: (e.g., number of rounds, on-site vs. remote)
+- **Verdict**: 
 
 ## Rounds Breakdown
 

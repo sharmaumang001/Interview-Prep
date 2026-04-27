@@ -1,15 +1,22 @@
-# Interview-Prep
+# Interview‑Prep
 
 This repository contains materials for my interview preparation.
 
 ## Resume
 
-The PDF file [`Umang_SSE_3.8YOE.pdf`](./Umang_SSE_3.8YOE.pdf) contains my current resume.
+The `Resume` directory houses my resume and analysis files:
 
-## Resume Analysis
+- **Umang_SSE_3.8YOE.pdf** – My current resume.
+- **Resume-Analysis.md** – An in‑depth analysis of my resume, including company‑wise interview breakdowns, sample questions, strong answers, strategies, and knowledge gaps.
+- **Follow-Up-Answers.md** – Detailed answers to follow‑up questions based on the resume analysis.
+- **AnalysisPrompt.md** – The original prompt used to generate the analysis.
 
-The file [`Resume-Analysis.md`](./Resume-Analysis.md) is an in-depth analysis of my resume. It includes company-wise interview breakdowns, sample questions, strong answers, strategies, knowledge gaps, system design exercises, and behavioural examples tailored to my experience.
+## Question Bank
+
+The `Question‑Bank` directory will contain question banks for different companies based on my interview experiences. Each file summarises questions asked, rounds, system design topics, and personal insights.
+
+- **Hiver.md** – A template for documenting the SDE‑2 Backend interview at Hiver. More companies coming soon!
 
 ## Goal
 
-I will use this repository to organize all of my interview prep resources, notes, and study plans in one place.
+I use this repository to organize all of my interview prep resources, notes, question banks, and study plans in one place.

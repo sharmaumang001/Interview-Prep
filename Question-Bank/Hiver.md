@@ -1,20 +1,31 @@
-Questions asked during the Hiver - SDE 2 Backend interview
+# Hiver SDE-2 Backend Interview – Template
 
----
-## DSA Round - Hacker Rank Test 
+## Overview
+- **Position**: SDE-2 Backend Engineer
+- **Date**: 
+- **Interview Format**: (e.g., number of rounds, on-site vs. remote)
 
-### 1. 
-### 2. 
-### 3. 
+## Rounds Breakdown
 
----
-## System Design
+### Round 1 – Coding / DSA
+- **Platform**: (e.g., HackerRank, LeetCode)
+- **Questions**:
+  1. 
+  2. 
+- **Approach & Complexity**: Summarize your solution approach, key data structures, algorithms, and time/space complexity.
+- **Takeaways**: Lessons learned and improvements for next time.
 
-### 1. Book my show clone 
-<p> Provide a high-quality, DB and model structure </p>
-⁠Include:
-  - 
-  - 
-  - 
-  - 
-### 2. Deep dive into Locking techniques
+### Round 2 – System Design
+- **Problem Statement**: 
+- **High-Level Design**: Describe components, interactions and scaling considerations.
+- **Data & Model Design**: Outline entities, relationships, and schemas.
+- **Deep Dive Topics**: Specific areas explored (e.g., locking, caching, consistency).
+- **Trade-offs & Considerations**: Key decisions and alternatives considered.
+
+### Round 3 – Behavioral / Culture Fit
+- **Themes**: Example topics like teamwork, leadership, conflict resolution.
+- **My Answers**: Brief STAR-formatted summaries of your responses.
+
+## Reflection & Preparation Tips
+- Summarize what went well and what could be improved.
+- Include topics to revisit or study further.

@@ -1,14 +1,15 @@
-# Hiver SDE-2 Backend Interview – Template
+# Hiver SDE-2 Backend Interview 
 
 ## Overview
 - **Position**: SDE-2 Backend Engineer
-- **Date**: 
-- **Interview Format**: (e.g., number of rounds, on-site vs. remote)
+- **Date**: 18/04/2025
+- **Interview Format**: 1 Hackerrank Test , 1 Telephonic round 
+- **Verdict**: Rejected
 
 ## Rounds Breakdown
 
-### Round 1 – Coding / DSA
-- **Platform**: (e.g., HackerRank, LeetCode)
+### Round 1 – Coding / DSA Test
+- **Platform**: Hackerrank
 - **Questions**:
   1. 
   2. 

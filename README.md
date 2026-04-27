@@ -15,7 +15,7 @@ The `Resume` directory houses my resume and analysis files:
 
 The `Question‑Bank` directory will contain question banks for different companies based on my interview experiences. Each file summarises questions asked, rounds, system design topics, and personal insights.
 
-- **Hiver.md** – A template for documenting the SDE‑2 Backend interview at Hiver. More companies coming soon!
+- **Hiver.md** – SDE‑2 Backend interview at Hiver.
 
 ## Goal
 

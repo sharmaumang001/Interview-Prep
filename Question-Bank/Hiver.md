@@ -9,4 +9,10 @@ Questions asked during the Hiver - SDE 2 Backend interview
 ---
 ## System Design
 ### 1. Book my show clone 
+•⁠  ⁠Provide a high-quality, DB and model structure
+•⁠  ⁠Include:
+  - 
+  - 
+  - 
+  - 
 ### 2. Deep dive into Locking techniques
